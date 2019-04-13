@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestMap.dir/main.cpp.o CMakeFiles/TestMap.dir/level.cpp.o CMakeFiles/TestMap.dir/tinystr.cpp.o CMakeFiles/TestMap.dir/tinyxml.cpp.o CMakeFiles/TestMap.dir/tinyxmlerror.cpp.o CMakeFiles/TestMap.dir/tinyxmlparser.cpp.o  -o TestMap -lsfml-graphics -lsfml-window -lsfml-system -lGL -lsfml-network /home/leonid/Fun/Box2D/Build/bin/x86_64/Debug/libBox2D.a 

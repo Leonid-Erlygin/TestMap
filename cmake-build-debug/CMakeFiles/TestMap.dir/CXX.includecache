@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonid/CLionProjects/TestMap/level.h
+string
+-
+vector
+-
+map
+-
+SFML/Graphics.hpp
+-
+
+/home/leonid/CLionProjects/TestMap/main.cpp
+level.h
+/home/leonid/CLionProjects/TestMap/level.h
+fstream
+-
+
